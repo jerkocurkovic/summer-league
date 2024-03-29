@@ -1,0 +1,91 @@
+{
+   "pozicija 1": {
+      "ime_ekipe": "AS Motorsport",
+      "odigrane_utakmice": 5,
+      "pobjede": 3,
+      "nerjesene": 1,
+      "porazi": 1,
+      "postignuti_golovi": 10,
+      "primljeni_golovi": 5,
+      "gol_razlika": 5,
+      "bodovi": 10
+    },
+    "pozicija 2": {
+      "ime_ekipe": "Podastrana",
+      "odigrane_utakmice": 5,
+      "pobjede": 3,
+      "nerjesene": 0,
+      "porazi": 2,
+      "postignuti_golovi": 8,
+      "primljeni_golovi": 6,
+      "gol_razlika": 2,
+      "bodovi": 9
+    },
+    "pozicija 3":{
+      "ime_ekipe": "CB Twin",
+      "odigrane_utakmice": 5,
+      "pobjede": 2,
+      "nerjesene": 2,
+      "porazi": 1,
+      "postignuti_golovi": 7,
+      "primljeni_golovi": 5,
+      "gol_razlika": 2,
+      "bodovi": 8
+    },
+    "pozicija 4": {
+      "ime_ekipe": "Republika Bitelić",
+      "odigrane_utakmice": 5,
+      "pobjede": 2,
+      "nerjesene": 1,
+      "porazi": 2,
+      "postignuti_golovi": 6,
+      "primljeni_golovi": 8,
+      "gol_razlika": -2,
+      "bodovi": 7
+    },
+    "pozicija 5": {
+      "ime_ekipe": "Bili tići",
+      "odigrane_utakmice": 5,
+      "pobjede": 1,
+      "nerjesene": 2,
+      "porazi": 2,
+      "postignuti_golovi": 5,
+      "primljeni_golovi": 6,
+      "gol_razlika": -1,
+      "bodovi": 5
+    },
+    "pozicija 6": {
+      "ime_ekipe": "Restoran Vreba",
+      "odigrane_utakmice": 5,
+      "pobjede": 1,
+      "nerjesene": 1,
+      "porazi": 3,
+      "postignuti_golovi": 4,
+      "primljeni_golovi": 8,
+      "gol_razlika": -4,
+      "bodovi": 4
+    },
+    "pozicija 7": {
+      "ime_ekipe": "HRV Caffe",
+      "odigrane_utakmice": 5,
+      "pobjede": 1,
+      "nerjesene": 1,
+      "porazi": 3,
+      "postignuti_golovi": 3,
+      "primljeni_golovi": 7,
+      "gol_razlika": -4,
+      "bodovi": 4
+    },
+    "pozicija 8": {
+      "ime_ekipe": "Restoran Stari Most",
+      "odigrane_utakmice": 5,
+      "pobjede": 0,
+      "nerjesene": 1,
+      "porazi": 4,
+      "postignuti_golovi": 2,
+      "primljeni_golovi": 9,
+      "gol_razlika": -7,
+      "bodovi": 1
+    }
+}
+  
